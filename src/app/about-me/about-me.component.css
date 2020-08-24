@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+h1{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    margin-top: 5%;
+    width: 50%;
+    height: 50%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 50%;
+}

@@ -1,0 +1,43 @@
+.container{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.row{
+    margin-top: 2%;
+    align-items: center;
+}
+.material-icons{
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+.card{
+    margin-bottom: 3%;
+}
+
+h1{
+    padding-top: 70px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.circle {
+    display: inline-block;
+    vertical-align: middle;
+    width: 10px;
+    height: 10px;
+    background-color: transparent;
+    border: solid 1px grey;
+    border-radius: 50%;
+  }
+
+h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+

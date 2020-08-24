@@ -1,0 +1,25 @@
+.container{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+h1{
+    padding-top: 70px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.material-icons{
+    display: inline-flex;
+    vertical-align: top;
+}
+
+.col-md-3{
+    margin-bottom: 2px;
+}
+
+.list{
+    margin-top: 2%;
+    margin-bottom: 5%
+}
+
